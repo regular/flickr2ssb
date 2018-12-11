@@ -22,5 +22,13 @@
   },
   "devDependencies": {},
   "keywords": [],
-  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes/)"
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/flickr2ssb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regular/flickr2ssb/issues"
+  },
+  "homepage": "https://github.com/regular/flickr2ssb#readme"
 }
