@@ -1,0 +1,26 @@
+{
+  "name": "flickr2ssb",
+  "version": "1.0.0",
+  "description": "export your flickr photos and prepare for ssb-photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "filesize": "^3.6.0",
+    "flickrapi": "^0.6.0",
+    "once": "^1.4.0",
+    "pull-fetch": "^0.1.0",
+    "pull-file": "^1.1.0",
+    "pull-json-doubleline": "^2.0.0",
+    "pull-paramap": "^1.2.2",
+    "pull-stream": "^3.6.1",
+    "ssb-client": "^4.5.6",
+    "ssb-config": "^2.2.0",
+    "ssb-keys": "^7.0.13"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes/)"
+}
